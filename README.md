@@ -1,4 +1,4 @@
-# Optimal Fractionation
+# Introduction
 This is a Python package for designing optimal dose schedules for cancer radiotherapy using sequential mixed-integer convex programming, a 
 variant of the convex-concave procedure (CCP). Our dose scheduling algorithm is built upon a mechanistic tumor-dose response model, which 
 captures the impact of hypoxia and reoxygenation on cellular radiosensitivity, and allows fraction sizes and treatment breaks to be adjusted 
